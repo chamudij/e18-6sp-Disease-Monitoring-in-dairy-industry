@@ -16,7 +16,7 @@ ___
 
 ## Introduction
 
-Welcome to the Disease Monitoring in the Dairy Industry web page! Our project focuses on addressing the issue of Subclinical Mastitis (SCM) in dairy cows using advanced technology and machine learning.
+Welcome to the Disease Monitoring in the Dairy Industry web page. Our project focuses on addressing the issue of Subclinical Mastitis (SCM) in dairy cows using advanced technology and machine learning.
 
 Subclinical Mastitis is a common and costly disease that affects dairy cows. It is challenging to detect because there are no visible signs of inflammation or abnormalities in the udder. However, it can have a significant impact on milk quality and production.
 
